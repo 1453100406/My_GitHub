@@ -302,4 +302,3 @@ plt.ylabel('cost')
 plt.xlabel(('iterations (per hundreds)'))
 plt.title("Learning rate =" + str(d1["learning_rate"]))
 plt.show()
-
